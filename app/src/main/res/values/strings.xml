@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Test Task</string>
+    <string name="card_number">CARD NUMBER</string>
+    <string name="show_details">SHOW DETAILS</string>
+    <string name="history">HISTORY</string>
+</resources>
